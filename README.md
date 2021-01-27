@@ -16,7 +16,7 @@ A simple App that provides random small text aoubt cats, generated from an pet A
 <span id="preview">
 
 ## Design Preview:
-<img src="assets/images/preview.png" alt="image preview of the project" width="350" />
+<img src="assets/images/preview.png" alt="image preview of the project" width="500" />
 <img src="assets/images/purrGif.gif" alt="gif preview of the project" width="350" />
 
 
