@@ -1,5 +1,5 @@
 # Purr Facts
-A simple App that provides random small text aoubt cats, generated from an pet API called Meow Facts.
+A simple App that provides random small text about cats, generated from an pet API called Meow Facts.
 
 ## Features:
 <ul>
